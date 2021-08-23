@@ -8,4 +8,3 @@ function tabela(n) {
     }
     console.table(x)
 }
-tabela(10)
